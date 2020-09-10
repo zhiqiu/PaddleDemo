@@ -1,2 +1,2 @@
 paddle
-Paddle
+paddlepaddle
